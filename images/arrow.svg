@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="14px" viewBox="0 0 8 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M641.972152,614.789365 L641.974695,614.792125 C641.973855,614.7912 641.973007,614.79028 641.972152,614.789365 Z M642.154397,614.987166 L646.824631,620.056031 C647.026753,620.275405 647.023041,620.627142 646.81634,620.841656 C646.60964,621.056171 646.278224,621.052231 646.076102,620.832857 L641.226168,615.568934 C640.924709,615.246248 640.924709,614.725974 641.22558,614.403919 L646.104232,609.16503 C646.307453,608.946803 646.638884,608.944739 646.844504,609.160421 C647.050124,609.376102 647.052068,609.727854 646.848847,609.946081 L642.154397,614.987166 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1360-hero-v3-mainMessage" transform="translate(-640.000000, -608.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Shape" stroke="#525252" fill="#525252" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
